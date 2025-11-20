@@ -77,79 +77,51 @@ pre {
   -webkit-font-feature-settings: "kern", "liga" 1, "calt" 0;
   -moz-font-feature-settings: "kern";
   -moz-font-feature-settings: "kern=1";
-
-
 }
 
-small {
-  font-size: 80%;
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* responsive columns */
+  gap: 16px;
+  align-items: start;
 }
 
-/*.h0 {
-  font-size: 2em;
-  line-height: 1.0em;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  position: relative;
-}*/
-
-h1 {
-  line-height: 1.0em;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
-  position: relative;
+.gallery > div {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  row-gap: 8px;
+  overflow: hidden;
 }
 
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a{
-  line-height: 1.0em;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  font-weight: 600;
-  position: relative;
-  color: #000 !important;
+/* Keep images from being upscaled, give them a uniform displayed height */
+.gallery img {
+  height: 160px;          /* desired displayed height */
+  width: auto;            /* preserve aspect ratio; prevent distortion */
+  max-width: 100%;        /* avoid overflow in narrow columns */
+  object-fit: contain;    /* ensure whole image is visible */
+  display: block;
 }
 
-h1 small,
-h2 small,
-h3 small,
-h4 small,
-h5 small,
-h6 small {
-  font-weight: 400;
-  font-size: 0.7em;
-  margin-left: 0.5em;
+/* optional: limit image intrinsic upscale by clamping */
+.gallery img[src] {
+  /* prevents images smaller than the displayed height from being enlarged */
+  image-rendering: auto;
 }
 
-h1 {
-  font-size: 1.3em;
+/* caption styling */
+.gallery > div::after {
+  content: attr(data-caption);
+  margin-top: 6px;
+  font-size: 0.95rem;
+  color: #222;
 }
 
-h2 {
-  font-size: 1.2em;
+/* If you prefer using existing inline text as caption, hide duplicates spacing */
+.gallery > div > img + text {
+  display: none;
 }
-
-h3 {
-  font-size: 1.1em;
-}
-
-h4 {
-  font-size: 1em;
-}
-
-h5 {
-  font-size: 0.9em;
-}
-
-h6 {
-  font-size: 0.8em;
-}
-
 
     
 </style>
