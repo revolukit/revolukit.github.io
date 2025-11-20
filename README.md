@@ -2,7 +2,7 @@
 
 **Rodrigo Agostini**
 
-SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado (2004) e mestre pela Universidade de São Paulo (2016). Desde 2006, atua em projetos de Arquitetura, Cultura e Patrimônio, com destaque para os projetos: museu Sport Club Corinthians, Teatro da Vertigem, FLIP (2011 a 2014), Mostra Sesc de Artes (2010 / 2012), 27ª e 29ª Bienal Internacional de Artes de São Paulo, Centro Cultural da Vila Formosa (2010 – 2012), do Teatro do Edifício Itália (2015), e Museu do Ipiranga (2025/ 2024), entre outros.
+SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado (2004) e mestre pela Universidade de São Paulo (2016). Desde 2005, atua em projetos de Arquitetura, Cultura e Patrimônio, com destaque para os projetos: museu Sport Club Corinthians, Teatro da Vertigem, FLIP, Mostra Sesc de Artes, 27ª e 29ª Bienal Internacional de Artes de São Paulo, Centro Cultural da Vila Formosa, Teatro do Edifício Itália, e Museu do Ipiranga, entre outros.
 
 <div class="gallery">
   <div>
