@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showguides="true"
      inkscape:zoom="2.7794613"
-     inkscape:cx="159.74318"
-     inkscape:cy="32.740157"
+     inkscape:cx="168.37795"
+     inkscape:cy="-21.586917"
      inkscape:window-width="1707"
      inkscape:window-height="1067"
      inkscape:window-x="0"
@@ -51,6 +51,11 @@
        id="page8"
        margin="0"
        bleed="0" />
+    <sodipodi:guide
+       position="63.53595,29.084659"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -66,49 +71,45 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(63.503798,226.3559)">
-    <g
-       id="g8"
-       transform="matrix(0.72439915,0,0,0.72439915,-16.953495,-63.191318)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:2.11667px;line-height:1.4;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#008080;stroke-width:13.965;stroke-dasharray:11.172, 11.172"
-         x="-19.650852"
-         y="-206.92499"
-         id="text1"><tspan
-           sodipodi:role="line"
-           id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#aca793;stroke-width:13.965"
-           x="-19.650852"
-           y="-206.92499"><tspan
-             style="font-size:27.1639px;letter-spacing:-1.88383px;fill:#aca793"
-             id="tspan6">r</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#aca793"
-             id="tspan3"><tspan
-   style="letter-spacing:-0.828146px;fill:#aca793"
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:1.53331px;line-height:1.4;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#008080;stroke-width:10.1162;stroke-dasharray:8.09299, 8.09299"
+       x="-32.214046"
+       y="-213.0876"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3109px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#aca793;stroke-width:10.1162"
+         x="-32.214046"
+         y="-213.0876"><tspan
+           style="font-size:19.6775px;letter-spacing:-1.36464px;fill:#aca793;stroke-width:10.1162"
+           id="tspan6">r</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3109px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#aca793;stroke-width:10.1162"
+           id="tspan3"><tspan
+   style="letter-spacing:-0.599908px;fill:#aca793;stroke-width:10.1162"
    id="tspan7">e</tspan>volukit</tspan></tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#6c6753;stroke-width:13.965"
-           x="-19.650852"
-           y="-193.49179"
-           id="tspan4" /></text>
-      <text
-         xml:space="preserve"
-         transform="scale(0.26458333)"
-         id="text2"
-         style="font-weight:bold;font-size:8px;line-height:1.4;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;shape-inside:url(#rect2);fill:#008080;stroke-width:52.7811;stroke-dasharray:42.2249, 42.2249"><tspan
-           sodipodi:role="line"
-           id="tspan2" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.7045px;line-height:1.4;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6c6753;stroke-width:4.03244;stroke-dasharray:3.22594, 3.22594"
-         x="-18.834026"
-         y="-196.96269"
-         id="text5"><tspan
-           sodipodi:role="line"
-           id="tspan5"
-           style="fill:#000000;stroke-width:4.03244"
-           x="-18.834028"
-           y="-196.96269">Arquitetura, Cultura e Patrimônio</tspan></text>
-    </g>
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#6c6753;stroke-width:10.1162"
+         x="-32.214046"
+         y="-203.35661"
+         id="tspan4" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.19166394,0,0,0.19166394,-17.482662,-63.191318)"
+       id="text2"
+       style="font-weight:bold;font-size:8px;line-height:1.4;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;shape-inside:url(#rect2);fill:#008080;stroke-width:52.7811;stroke-dasharray:42.2249, 42.2249"><tspan
+         sodipodi:role="line"
+         id="tspan2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09291px;line-height:1.4;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6c6753;stroke-width:2.89322;stroke-dasharray:2.31457, 2.31457"
+       x="-31.64185"
+       y="-205.90111"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#000000;stroke-width:2.89322"
+         x="-31.641848"
+         y="-205.90111">Arquitetura, Cultura e Patrimônio</tspan></text>
   </g>
 </svg>
