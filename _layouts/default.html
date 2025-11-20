@@ -95,30 +95,28 @@ pre {
   overflow: hidden;
 }
 
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+  gap: 16px;
+}
+
+.gallery > div {
+  display: flex;
+  flex-direction: column; /* stack image + caption */
+  justify-content: flex-end; /* push content to the bottom of the grid cell */
+  height: 220px; /* fixed cell height so "bottom" is defined */
+  padding: 8px;
+  box-sizing: border-box;
+}
+
 .gallery img {
-  width: auto;            /* preserve aspect ratio; prevent distortion */
-  max-width: 100%;        /* avoid overflow in narrow columns */
-  object-fit: contain;    /* ensure whole image is visible */
+  height: 160px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
   display: block;
-}
-
-/* optional: limit image intrinsic upscale by clamping */
-.gallery img[src] {
-  /* prevents images smaller than the displayed height from being enlarged */
-  image-rendering: auto;
-}
-
-/* caption styling */
-.gallery > div::after {
-  content: attr(data-caption);
-  margin-top: 6px;
-  font-size: 0.95rem;
-  color: #222;
-}
-
-/* If you prefer using existing inline text as caption, hide duplicates spacing */
-.gallery > div > img + text {
-  display: none;
+  margin: 0 auto;
 }
 
     
