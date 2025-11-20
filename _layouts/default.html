@@ -155,14 +155,39 @@ h6 {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
   align-items: start;
 }
+
+/* each tile has a fixed height so all images match */
+.gallery figure {
+  margin: 0;
+  height: 200px;           /* set the uniform height you want */
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+/* make img fill the tile while preserving aspect ratio (cropping as needed) */
 .gallery img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;       /* fills tile and crops to preserve cover */
   display: block;
-  object-fit: cover;
-  border-radius: 4px; /* optional */
+}
+
+/* caption styling */
+.gallery figcaption {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #444;
+  text-align: center;
+}
+
+/* optional: make height responsive on small screens */
+@media (max-width: 600px) {
+  .gallery figure { height: 140px; }
 }
 </style>
   <body>
