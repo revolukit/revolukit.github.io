@@ -150,45 +150,36 @@ h5 {
 h6 {
   font-size: 0.8em;
 }
-    
+
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* change min width as desired */
   gap: 12px;
-  width: 95%;
+  width: 100%;
   box-sizing: border-box;
-  align-items: start;
 }
 
-/* each tile has a fixed height so all images match */
 .gallery figure {
   margin: 0;
-  height: 200px;           /* set the uniform height you want */
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;      /* preserve natural aspect ratio — no scaling to fixed height */
   display: block;
-  overflow: hidden;
+  object-fit: contain; /* optional: avoid cropping; use 'cover' if you want cropping */
   border-radius: 6px;
 }
 
-/* make img fill the tile while preserving aspect ratio (cropping as needed) */
-.gallery img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;       /* fills tile and crops to preserve cover */
-  display: block;
-}
-
-/* caption styling */
 .gallery figcaption {
   margin-top: 6px;
   font-size: 0.9rem;
   color: #444;
   text-align: center;
 }
-
-/* optional: make height responsive on small screens */
-@media (max-width: 600px) {
-  .gallery figure { height: 140px; }
-}
+    
 </style>
   
   <body>
