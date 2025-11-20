@@ -12,6 +12,7 @@ SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado 
 <img width="252" height="191" alt="image" src="https://github.com/user-attachments/assets/a039f4f8-5a7f-41d6-9f99-a695a7226498" />
 <img width="306" height="190" alt="image" src="https://github.com/user-attachments/assets/0310ab07-6d8f-49e5-9b26-651569fc7909" />
 <img width="254" height="190" alt="image" src="https://github.com/user-attachments/assets/470d9608-6e9c-4400-af83-be685d24d4a9" />
+<img width="302" height="190" alt="image" src="https://github.com/user-attachments/assets/e002dd0b-055e-4d20-ad1e-6a4109689398" />
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/0b990096-a2d4-4f0e-885e-c98d4ffc4f8a" />
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/b9e404e8-ac89-4cdf-bb87-93953e995edd" />
 <img width="148" height="190" alt="image" src="https://github.com/user-attachments/assets/e38a1bbc-daa0-4e9a-80f1-ed47aa82ffaa" />
@@ -24,9 +25,13 @@ SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado 
 <img width="268" height="190" alt="image" src="https://github.com/user-attachments/assets/ff0a6a38-e265-4342-aca9-79c44eea081a" />
 
 © revolukit @revolukit
+
 CNPJ 21.930.651.0001-50
+
 CAU 101781-0
+
 arqrodrigoagostini@gmail.com
+
 55 11 943595141 
 
 
