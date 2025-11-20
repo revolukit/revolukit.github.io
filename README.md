@@ -1,9 +1,7 @@
-<img width="221" height="48" alt="image" src="https://github.com/user-attachments/assets/902b5a1e-bd60-48a5-9266-50d3df05c407" />
 Arquitetura, Cultura e Patrimônio
 
+**Rodrigo Agostini**
 
-
-Rodrigo Agostini
 SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado (2004) e mestre pela Universidade de São Paulo (2016). Desde 2006, atua em projetos de Arquitetura, Cultura e Patrimônio, com destaque para os projetos: museu Sport Club Corinthians, BR3 Teatro da Vertigem, FLIP (2011 a 2014), Mostra Sesc de Artes (2010 / 2012), 27ª e 29ª Bienal Internacional de Artes de São Paulo, Centro Cultural da Vila Formosa (2010 – 2012), do Teatro do Edifício Itália (2015), e Museu do Ipiranga (2025/ 2024), entre outros.
 
 <img width="503" height="190" alt="image" src="https://github.com/user-attachments/assets/4e7f1c30-5578-476e-b367-c76d2d3ac9c1" />
