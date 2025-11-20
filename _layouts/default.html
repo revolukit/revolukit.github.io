@@ -89,15 +89,13 @@ pre {
 .gallery > div {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  text-align: center;
+  align-items: left;
+  text-align: left;
   row-gap: 8px;
   overflow: hidden;
 }
 
-/* Keep images from being upscaled, give them a uniform displayed height */
 .gallery img {
-  height: 160px;          /* desired displayed height */
   width: auto;            /* preserve aspect ratio; prevent distortion */
   max-width: 100%;        /* avoid overflow in narrow columns */
   object-fit: contain;    /* ensure whole image is visible */
