@@ -101,11 +101,13 @@ pre {
   gap: 16px;
 }
 
+
 .gallery > div {
   display: flex;
   flex-direction: column; /* stack image + caption */
   justify-content: flex-end; /* push content to the bottom of the grid cell */
-  height: 220px; /* fixed cell height so "bottom" is defined */
+  align-items: flex-start;   /* left-align children */
+  height: 190px;
   padding: 8px;
   box-sizing: border-box;
 }
@@ -116,9 +118,8 @@ pre {
   max-width: 100%;
   object-fit: contain;
   display: block;
-  margin: 0 auto;
+  margin: 0; /* remove auto centering */
 }
-
     
 </style>
   </head>
