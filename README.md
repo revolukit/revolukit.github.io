@@ -1,9 +1,8 @@
-Arquitetura, Cultura e Patrimônio
-
 **Rodrigo Agostini**
 
-SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado (2004) e mestre pela Universidade de São Paulo (2016). Desde 2006, atua em projetos de Arquitetura, Cultura e Patrimônio, com destaque para os projetos: museu Sport Club Corinthians, BR3 Teatro da Vertigem, FLIP (2011 a 2014), Mostra Sesc de Artes (2010 / 2012), 27ª e 29ª Bienal Internacional de Artes de São Paulo, Centro Cultural da Vila Formosa (2010 – 2012), do Teatro do Edifício Itália (2015), e Museu do Ipiranga (2025/ 2024), entre outros.
+SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado (2004) e mestre pela Universidade de São Paulo (2016). Desde 2006, atua em projetos de Arquitetura, Cultura e Patrimônio, com destaque para os projetos: museu Sport Club Corinthians, Teatro da Vertigem, FLIP (2011 a 2014), Mostra Sesc de Artes (2010 / 2012), 27ª e 29ª Bienal Internacional de Artes de São Paulo, Centro Cultural da Vila Formosa (2010 – 2012), do Teatro do Edifício Itália (2015), e Museu do Ipiranga (2025/ 2024), entre outros.
 
+<div class="gallery">
 <img width="503" height="190" alt="image" src="https://github.com/user-attachments/assets/4e7f1c30-5578-476e-b367-c76d2d3ac9c1" />
 <img width="287" height="190" alt="image" src="https://github.com/user-attachments/assets/cb3b5fe3-29c7-43a9-ba51-2da11cad6211" />
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/39bfe7f9-c668-41ae-80ad-51dfb88b5300" />
@@ -23,13 +22,14 @@ SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado 
 <img width="192" height="190" alt="image" src="https://github.com/user-attachments/assets/53426057-5a5c-4cb9-bf68-e7b411c965a7" />
 <img width="253" height="190" alt="image" src="https://github.com/user-attachments/assets/f57f07b1-fd4f-4468-ae4f-a915ce9b62ad" />
 <img width="268" height="190" alt="image" src="https://github.com/user-attachments/assets/ff0a6a38-e265-4342-aca9-79c44eea081a" />
+</div>
 
-[@revolukit](https://instagram.com/revolukit)<br>
-
-© 2025 revolukit<br>
+[**@revolukit**](https://instagram.com/revolukit)<br>
 CNPJ 21.930.651.0001-50<br>
 CAU 101781-0<br>
 arqrodrigoagostini@gmail.com<br>
 \+ 55 11 943595141
+
+© 2025 revolukit
 
 
