@@ -24,14 +24,12 @@ SP, Brasil, 1979. Vive e trabalha em São Paulo. Arquiteto e Urbanista graduado 
 <img width="253" height="190" alt="image" src="https://github.com/user-attachments/assets/f57f07b1-fd4f-4468-ae4f-a915ce9b62ad" />
 <img width="268" height="190" alt="image" src="https://github.com/user-attachments/assets/ff0a6a38-e265-4342-aca9-79c44eea081a" />
 
-© revolukit @revolukit
+[@revolukit](https://intagram.com/revolukit)<br>
 
-CNPJ 21.930.651.0001-50
-
-CAU 101781-0
-
-arqrodrigoagostini@gmail.com
-
-55 11 943595141 
+© 2025 revolukit<br>
+CNPJ 21.930.651.0001-50<br>
+CAU 101781-0<br>
+arqrodrigoagostini@gmail.com<br>
++ 55 11 943595141
 
 
